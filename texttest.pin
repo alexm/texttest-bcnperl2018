@@ -1,0 +1,61 @@
+#!/usr/bin/pinpoint -s
+#
+# Copyright © 2018 Alex Muntada
+#
+# This is free software; you can redistribute it and/or modify it
+# under the same terms as the Perl 5 programming language system
+# itself.
+#
+
+[font=Sans 57px]
+#[transition=text-slide-up]
+[duration=60]
+
+[white]
+[text-color=black]
+[shading-opacity=0]
+[fit]
+[text-align=center]
+
+--
+<big><b>TextTest</b></big>
+
+\#bcnperl2018
+
+<i><small>@alexmuntada</small></i>
+
+-- [falco1.jpg] # https://twitter.com/LlewellynFalco/status/1057678079840186369
+
+-- [falco2.jpg] # https://twitter.com/LlewellynFalco/status/1057678772235890691
+
+-- [text-align=left]
+
+<b>Refactoring Legacy Code</b>
+
+· no matter what the code does
+· make sure it keeps doing that
+· 100% text test coverage is better
+
+-- # https://github.com/emilybache/GildedRose-Refactoring-Kata
+
+Gilded Rose Refactoring Kata
+
+<small><i>Emily Bache</i></small>
+
+-- [gildedrose1.jpg]
+
+-- [gildedrose2.png]
+
+--
+
+TextTest.org
+
+<small><i>Geoff Bache</i></small>
+
+-- [texttest-diff.png]
+
+--
+
+Devel::Cover
+
+-- [cover.png]
